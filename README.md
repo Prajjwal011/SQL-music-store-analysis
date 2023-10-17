@@ -23,6 +23,6 @@ Here are some examples of the types of questions you can answer with this datase
 - **Product Popularity**: Which music genres are the most popular?
 - **Album vs. Individual Tracks**: Are customers more likely to purchase complete albums or individual tracks
 
-  ## Database and Tools
-  - PostgreSQL
-  - PgAdmin4
+## Database and Tools
+- PostgreSQL
+- PgAdmin4
